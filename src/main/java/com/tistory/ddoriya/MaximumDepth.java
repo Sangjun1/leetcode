@@ -53,7 +53,9 @@ public class MaximumDepth {
 
 	public int dfs(TreeNode tree) {
 		int max = 0;
-		if (tree == null) return max;
+		if (tree == null) {
+			return max;
+		}
 
 		Stack<TreeNode> stack = new Stack<>();
 		Stack<Integer> valueStack = new Stack<>();
