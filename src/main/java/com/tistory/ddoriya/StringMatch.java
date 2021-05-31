@@ -34,7 +34,7 @@ public class StringMatch {
 
 	public static void main(String[] args) {
 		String s = "aa", p = "a";
-		System.out.println(isMatch(s, p));
+//		System.out.println(isMatch(s, p));
 
 		s = "aa";
 		p = "*";
