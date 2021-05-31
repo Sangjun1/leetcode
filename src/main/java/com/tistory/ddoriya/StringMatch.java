@@ -55,6 +55,10 @@ public class StringMatch {
 		s = "acdcb";
 		p = "a*b";
 		System.out.println(isMatch(s, p));
+
+		s = "acdcb";
+		p = "a*b";
+		System.out.println(isMatch(s, p));
 	}
 
 	public static boolean isMatch(String s, String p) {
