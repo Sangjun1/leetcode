@@ -1,7 +1,6 @@
 /*
  * @(#) TwoSum.java 2021. 06. 08.
  *
- * Copyright 2021. PlayD Corp. All rights Reserved.
  */
 package com.tistory.ddoriya.leetcode;
 
